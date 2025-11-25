@@ -4,3 +4,8 @@ In this lab, you will be performing reconnaissance from the Kali machine with an
 
 View Phases Here:
 
+Banner Grabbing Phase: View Here
+
+Advanced Scanning with Nmap Phase: View Here
+
+Analysis and Exploitation Phase: View Here
